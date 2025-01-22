@@ -20,7 +20,7 @@ Introduction of Mathematics for Industry Platform (in Japanese)
 
 ### 2025/1/16 9:00~ (JST)
 
-[**Karel Svoboda**](20250116_Svoboda.html)** (Allen Institute for Neural Dynamics)  
+[**Karel Svoboda**](20250116_Svoboda.html) (Allen Institute for Neural Dynamics)  
 To be confirmed
 
 ### 2025/1/7 15:00-16:30 (JST)
