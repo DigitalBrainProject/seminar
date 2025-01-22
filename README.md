@@ -13,12 +13,12 @@ High-dimensional interpretable factor analysis via penalization**
 
 ## Past Seminars
 
-### 2025/1/16 9:00~ (JST)
-
 ### 2025/1/16 13:00〜 (JST)
 
 [**Daisuke Tagami**](https://hyoka.ofc.kyushu-u.ac.jp/html/100023049_ja.html) Kyushu University  
 Introduction of Mathematics for Industry Platform (in Japanese)
+
+### 2025/1/16 9:00~ (JST)
 
 **[Karel Svoboda](https://alleninstitute.org/person/karel-svoboda-2/)** (Allen Institute for Neural Dynamics)  
 To be confirmed
