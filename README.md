@@ -6,25 +6,22 @@ All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7
 
 ## Upcoming Seminars
 
-### 2025/1/16 9:00~ (JST)
+### 2025/2/17 10:30〜 (JST)
 
-**[Karel Svoboda](https://alleninstitute.org/person/karel-svoboda-2/)** (Allen Institute for Neural Dynamics)  
-To be confirmed
+**[Kei Hirose](https://keihirose.com/)** (Kyushu University)  
+High-dimensional interpretable factor analysis via penalization**
+
+## Past Seminars
+
+### 2025/1/16 9:00~ (JST)
 
 ### 2025/1/16 13:00〜 (JST)
 
 [**Daisuke Tagami**](https://hyoka.ofc.kyushu-u.ac.jp/html/100023049_ja.html) Kyushu University  
 Introduction of Mathematics for Industry Platform (in Japanese)
 
-### 2025/2/17 10:30〜 (JST)
-
-**[Kei Hirose](https://keihirose.com/)** (Kyushu University)  
-High-dimensional interpretable factor analysis via penalization**
-
-
-
-
-## Past Seminars
+**[Karel Svoboda](https://alleninstitute.org/person/karel-svoboda-2/)** (Allen Institute for Neural Dynamics)  
+To be confirmed
 
 ### 2025/1/7 15:00-16:30 (JST)
 
