@@ -8,7 +8,7 @@ All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7
 
 ### 2025/1/28 Tue 17:00-18:30 JST
 
-**Introduction to the EBRAINS: Part 2**
+Introduction to the EBRAINS: Part 2
 
 **Thorsten Hater**
 
@@ -18,7 +18,7 @@ Multiscale co-simulation with Arbor and The Virtual Brain (TVB)
 
 Simulations with NEST
 
-**TBC***
+**TBC**
 
 Spotlight talks on EBRAINS workflows
 
@@ -30,7 +30,7 @@ High-dimensional interpretable factor analysis via penalization**
 
 ### 2025/2/18 Tue 17:00-18:30 JST
 
-**Introduction to the EBRAINS: Part 3**
+Introduction to the EBRAINS: Part 3
 
 **Wouter Klijn**
 
@@ -41,7 +41,8 @@ The architecture of the EBRAINS research infrastructure
 High Performance Computing (HPC)
 
 ### 2025/2/25 Tue 17:00-18:30 JST
-**Introduction to the EBRAINS: Part 4**
+
+Introduction to the EBRAINS: Part 4
 
 **TBC**
 
@@ -73,9 +74,7 @@ Emergence of Cognitive Functions in Natural and Artificial Neural Networks**
 
 ### 2024/12/3 17:00-18:30 JST, 9:00 - 10:30 CET
 
-**Introduction to the EBRAINS: Part 1**
-
-An overview of the Infrastructure, Data sharing and Brain Atlas
+Introduction to the EBRAINS: Part 1: An overview
 
 [**Katrin Amunts**](https://www.fz-juelich.de/profile/amunts_k)
 
