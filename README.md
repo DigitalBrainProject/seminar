@@ -8,7 +8,7 @@ All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7
 
 ### 2025/1/28 Tue 17:00-18:30 JST
 
-Introduction to the EBRAINS: Seminar B
+[**Introduction to the EBRAINS: Seminar B**](20250128_EBRAINS_B.html)
 
 **Susanne Kunkel**
 
