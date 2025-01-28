@@ -11,18 +11,18 @@ All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7
 [**Introduction to the EBRAINS: Seminar B**](20250128_EBRAINS_B.html)
 [(Registration link)](https://us06web.zoom.us/meeting/register/tZ0qdeyrpzotE9c5jm0wQlY0Zu2nm3eKlbyi)
 
-**Susanne Kunkel** Jülich Research Centre
+**Susanne Kunkel** (Jülich Research Centre)
 
 The NEST ecosystem: A key enabler of efficient brain-scale spiking network simulation and sustainable neuroscience research
 
-**Thorsten Hater**
+**Thorsten Hater** (Jülich Research Centre)
 
 Multiscale Simulations of Full Brain Models using Arbor and TVB
 
 **Flashlight talks of developing integrated EBRAINS-RI workflows**
 
 *	**Sharon Yates**:    		QUINT workflow
-*	**Giulia De Bonis**: 		CobraWAP Workflow
+*	**Giulia De Bonis**: 		CobraWAP workflow
 *	**Wouter Klijn**:     	Virtual Brain Twin workflow
 
 ### 2025/2/17 10:30-12:00 JST
