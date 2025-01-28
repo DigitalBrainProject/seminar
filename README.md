@@ -8,19 +8,21 @@ All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7
 
 ### 2025/1/28 Tue 17:00-18:30 JST
 
-Introduction to the EBRAINS: Part 2
+Introduction to the EBRAINS: Seminar B
+
+**Susanne Kunkel**
+
+The NEST ecosystem: A key enabler of efficient brain-scale spiking network simulation and sustainable neuroscience research
 
 **Thorsten Hater**
 
-Multiscale co-simulation with Arbor and The Virtual Brain (TVB)
+Multiscale Simulations of Full Brain Models using Arbor and TVB
 
-**Markus Diesmann**
+**Flashlight talks of developing integrated EBRAINS-RI workflows**
 
-Simulations with NEST
-
-**TBC**
-
-Spotlight talks on EBRAINS workflows
+*	Sharon Yates    		QUINT workflow
+*	Giulia De Bonis 		CobraWAP Workflow
+*	Wouter Klijn     		Virtual Brain Twin workflow
 
 ### 2025/2/17 10:30-12:00 JST
 
@@ -74,7 +76,7 @@ Emergence of Cognitive Functions in Natural and Artificial Neural Networks**
 
 ### 2024/12/3 17:00-18:30 JST, 9:00 - 10:30 CET
 
-Introduction to the EBRAINS: Part 1: An overview
+Introduction to the EBRAINS: Seminar A
 
 [**Katrin Amunts**](https://www.fz-juelich.de/profile/amunts_k)
 
