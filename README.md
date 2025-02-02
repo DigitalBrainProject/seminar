@@ -4,14 +4,14 @@ The aim of the [Digital Brain Seminar](https://boatneck-weeder-7b7.notion.site/D
 
 All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7.notion.site/Digital-Brain-Seminar-90cc94badac64d32a281cba4245ed66d) to get a zoom link.
 
-## Upcoming Seminars
+# Upcoming Seminars
 
-### 2025/2/17 10:30-12:00 JST
+## 2025/2/17 10:30-12:00 JST
 
 [**Kei Hirose**](https://keihirose.com/) (Kyushu University)  
 High-dimensional interpretable factor analysis via penalization**
 
-### 2025/2/18 Tue 17:00-18:30 JST
+## 2025/2/18 Tue 17:00-18:30 JST
 EBRAINS Seminar C: 
 
 **Wouter Klijn**  
@@ -20,7 +20,7 @@ The architecture of the EBRAINS research infrastructure
 **Lena Oden**  
 High Performance Computing (HPC)
 
-### 2025/2/25 Tue 17:00-18:30 JST
+## 2025/2/25 Tue 17:00-18:30 JST
 EBRAINS Seminar D: 
 
 **TBC**  
@@ -29,7 +29,7 @@ EBRAINS Education and events for early career researchers
 **Jan Bjaalie** and **Ekaterina Zossimova**  
 Co-Design & Science Support
 
-## Past Seminars
+# Past Seminars
 
 ### 2025/1/28 Tue 17:00-18:30 JST
 [**EBRAINS Seminar B: Simulation Capabilities**](20250128_EBRAINS_B.html)
@@ -45,7 +45,7 @@ Multiscale Simulations of Full Brain Models using Arbor and TVB
 *	**Sharon Yates** (University of Oslo): QUINT workflow
 *	**Giulia De Bonis** (INFN): CobraWAP workflow
 *	**Wouter Klijn** (Jülich Research Centre): Virtual Brain Twin workflow
-*	
+
 ### 2025/1/16 13:00-14:30 JST
 
 [**Daisuke Tagami**](https://hyoka.ofc.kyushu-u.ac.jp/html/100023049_ja.html) (Kyushu University)  
