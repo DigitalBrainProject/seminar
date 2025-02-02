@@ -6,21 +6,6 @@ All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7
 
 ## Upcoming Seminars
 
-### 2025/1/28 Tue 17:00-18:30 JST
-[**EBRAINS Seminar B: Simulation Capabilities**](20250128_EBRAINS_B.html)
-[(registration link)](https://us06web.zoom.us/meeting/register/tZ0qdeyrpzotE9c5jm0wQlY0Zu2nm3eKlbyi)
-
-**Susanne Kunkel** (Jülich Research Centre)  
-The NEST ecosystem: A key enabler of efficient brain-scale spiking network simulation and sustainable neuroscience research
-
-**Thorsten Hater** (Jülich Research Centre)  
-Multiscale Simulations of Full Brain Models using Arbor and TVB
-
-**Flashlight talks of developing integrated EBRAINS-RI workflows**  
-*	**Sharon Yates** (University of Oslo): QUINT workflow
-*	**Giulia De Bonis** (INFN): CobraWAP workflow
-*	**Wouter Klijn** (Jülich Research Centre): Virtual Brain Twin workflow
-
 ### 2025/2/17 10:30-12:00 JST
 
 [**Kei Hirose**](https://keihirose.com/) (Kyushu University)  
@@ -46,6 +31,21 @@ Co-Design & Science Support
 
 ## Past Seminars
 
+### 2025/1/28 Tue 17:00-18:30 JST
+[**EBRAINS Seminar B: Simulation Capabilities**](20250128_EBRAINS_B.html)
+[(registration link)](https://us06web.zoom.us/meeting/register/tZ0qdeyrpzotE9c5jm0wQlY0Zu2nm3eKlbyi)
+
+**Susanne Kunkel** (Jülich Research Centre)  
+The NEST ecosystem: A key enabler of efficient brain-scale spiking network simulation and sustainable neuroscience research
+
+**Thorsten Hater** (Jülich Research Centre)  
+Multiscale Simulations of Full Brain Models using Arbor and TVB
+
+**Flashlight talks of developing integrated EBRAINS-RI workflows**  
+*	**Sharon Yates** (University of Oslo): QUINT workflow
+*	**Giulia De Bonis** (INFN): CobraWAP workflow
+*	**Wouter Klijn** (Jülich Research Centre): Virtual Brain Twin workflow
+*	
 ### 2025/1/16 13:00-14:30 JST
 
 [**Daisuke Tagami**](https://hyoka.ofc.kyushu-u.ac.jp/html/100023049_ja.html) (Kyushu University)  
