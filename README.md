@@ -1,8 +1,8 @@
 # Digital Brain Seminar
 
-The aim of the [Digital Brain Seminar](https://boatneck-weeder-7b7.notion.site/Digital-Brain-Seminar-90cc94badac64d32a281cba4245ed66d) series is to bring toghether people who are interested in creating Digital Brain, a digital reconstruction of the brain in structural, dynamic and functional aspects at difference scales in different species.
+The aim of the Digital Brain Seminar series is to bring toghether people who are interested in creating Digital Brain, a digital reconstruction of the brain in structural, dynamic and functional aspects at difference scales in different species.
 
-All seimnars are online or hybrid. Please [register](https://boatneck-weeder-7b7.notion.site/Digital-Brain-Seminar-90cc94badac64d32a281cba4245ed66d) to get a zoom link.
+All seimnars are online or hybrid. Please [register](https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true)) to get a zoom link.
 
 # Upcoming Seminars
 
@@ -53,8 +53,8 @@ Introduction of Mathematics for Industry Platform (in Japanese)
 
 ### 2025/1/16 9:00-10:30 JST
 
-[**Karel Svoboda**](20250116_Svoboda.html) (Allen Institute for Neural Dynamics)  
-Science at the Allen Institute for Neural Dynamics (AIND)
+[**Karel Svoboda**]([20250116_Svoboda.html](https://alleninstitute.org/person/karel-svoboda-2/)) (Allen Institute for Neural Dynamics)  
+[Science at the Allen Institute for Neural Dynamics (AIND)](20250116_Svoboda.html)
 
 ### 2025/1/7 15:00-16:30 JST
 
@@ -136,16 +136,19 @@ Learning of hidden principled structures behind observations
 16:30-17:00 **Kenji Doya** (Okinawa Institute of Science and Technology Graduate University)  
 What is the Digital Brain of Brain/MINDS 2.0 [(slides)](https://www.dropbox.com/scl/fi/x0eeqy623p8sx3lvqv6v3/Doya2024DigitalBrain.pdf?rlkey=t1eb3b90fw2zp6pann5yn5688&dl=0)
 
+## [Previous Web Site](https://boatneck-weeder-7b7.notion.site/Digital-Brain-Seminar-90cc94badac64d32a281cba4245ed66d)
 
 ## Organizers
 * Ken Nakae (ExCELLS)
 * Daisuke Tagami (Kyushu University)
 * Kenji Doya (OIST)
 
-## Sponsor
+## Sponsors
+* [Japan Agency for Medical Research and Development (AMED)](https://www.amed.go.jp/en/) (TBC)
+* [Mathematics for industory platform (MfIP)](https://mfip.jp/)
 * [Biology of Behaviro Change, Grant-in-Aid for Transformative Research Areas, MEXT](https://braidyn-bc.jp/)
 
-## Endorsement
-* [Union of Brain Science Association in Japan](https://www.brainscience-union.jp/)
-* [Mathematics for industory platform (MfIP)](https://mfip.jp/)
+## Supported by
+* [International Brain Initiative (IBI)](https://www.internationalbraininitiative.org)
+* [Union of Brain Science Associations in Japan](https://www.brainscience-union.jp/)
 * [Japanease Neural Network Society](https://jnns.org/)
