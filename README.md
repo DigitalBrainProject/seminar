@@ -4,6 +4,8 @@ The aim of the Digital Brain Seminar series is to bring toghether people who are
 
 All seimnars are online or hybrid. Please [register](https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true) to get a zoom link.
 
+Most of the talks are archived on the [YouTube channel](https://www.youtube.com/@kennakae2779).
+
 # Upcoming Seminars
 
 ## 2025/2/17 10:30-12:00 JST
@@ -30,6 +32,13 @@ EBRAINS Education and events for early career researchers
 Co-Design & Science Support
 
 # Past Seminars
+
+### 2025/1/30 Thu 9:00-16:00 JST
+[**Allen Neural Dynamics Workshop at OIST**](https://www.oist.jp/conference/allen-neural-dynamics-workshop)  
+[Okinawa Institute of Science ant Technology](https://www.oist.jp/campus/access-map) (on-site only)
+
+[**James Berg**](https://alleninstitute.org/person/jim-berg/) (Allen Institute for Neural Dynamics)  
+[**Saskia de Vries***](https://alleninstitute.org/person/saskia-de-vries/) (Allen Institute for Neural Dynamics)
 
 ### 2025/1/28 Tue 17:00-18:30 JST
 [**EBRAINS Seminar B: Simulation Capabilities**](20250128_EBRAINS_B.html)
@@ -83,9 +92,12 @@ Virtual Brain Twins in Medicine
 Hands-on tutorial for OptiNiSt
 
 ### 2024/9/30 13:00-14:00 JST
-
 **Rui Gong** (ExCELLS, NINS)  
 Tutorial on NIfTI Files, 3D Slicer and Image Registration using ANTs
+
+### 2024/9/19-21
+[1st Digital Brain Workshop](https://boatneck-weeder-7b7.notion.site/1st-Digital-Brain-Workshop-131a68936dda4867a88fedd25dfaac92)  
+[Kyushu University Nihonbashi Satellite](https://www.kyushu-u.ac.jp/ja/university/facility/nihonbashi/) (on-site only)
 
 ### 2024/7/4 Thu 13:30-17:00 JST
 **Data sharing and standardization in human neuroscience**  
