@@ -2,7 +2,7 @@
 
 The aim of the Digital Brain Seminar series is to bring toghether people who are interested in creating Digital Brain, a digital reconstruction of the brain in structural, dynamic and functional aspects at difference scales in different species.
 
-All seimnars are online or hybrid. Please [register](https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true)) to get a zoom link.
+All seimnars are online or hybrid. Please [register](https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true) to get a zoom link.
 
 # Upcoming Seminars
 
@@ -33,7 +33,6 @@ Co-Design & Science Support
 
 ### 2025/1/28 Tue 17:00-18:30 JST
 [**EBRAINS Seminar B: Simulation Capabilities**](20250128_EBRAINS_B.html)
-[(registration link)](https://us06web.zoom.us/meeting/register/tZ0qdeyrpzotE9c5jm0wQlY0Zu2nm3eKlbyi)
 
 **Susanne Kunkel** (Jülich Research Centre)  
 The NEST ecosystem: A key enabler of efficient brain-scale spiking network simulation and sustainable neuroscience research
