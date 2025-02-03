@@ -1,4 +1,4 @@
-# Digital Brain Seminar
+# [Digital Brain Seminar](https://digitalbrainproject.github.io/seminar/)
 
 The aim of the Digital Brain Seminar series is to bring toghether people who are interested in creating Digital Brain, a digital reconstruction of the brain in structural, dynamic and functional aspects at difference scales in different species.
 
@@ -38,7 +38,7 @@ Co-Design & Science Support
 [Okinawa Institute of Science ant Technology](https://www.oist.jp/campus/access-map) (on-site only)
 
 [**James Berg**](https://alleninstitute.org/person/jim-berg/) (Allen Institute for Neural Dynamics)  
-[**Saskia de Vries***](https://alleninstitute.org/person/saskia-de-vries/) (Allen Institute for Neural Dynamics)
+[**Saskia de Vries**](https://alleninstitute.org/person/saskia-de-vries/) (Allen Institute for Neural Dynamics)
 
 ### 2025/1/28 Tue 17:00-18:30 JST
 [**EBRAINS Seminar B: Simulation Capabilities**](20250128_EBRAINS_B.html)
@@ -147,7 +147,7 @@ Learning of hidden principled structures behind observations
 16:30-17:00 **Kenji Doya** (Okinawa Institute of Science and Technology Graduate University)  
 What is the Digital Brain of Brain/MINDS 2.0 [(slides)](https://www.dropbox.com/scl/fi/x0eeqy623p8sx3lvqv6v3/Doya2024DigitalBrain.pdf?rlkey=t1eb3b90fw2zp6pann5yn5688&dl=0)
 
-## [Previous Web Site](https://boatneck-weeder-7b7.notion.site/Digital-Brain-Seminar-90cc94badac64d32a281cba4245ed66d)
+### [Early Web Site](https://boatneck-weeder-7b7.notion.site/Digital-Brain-Seminar-90cc94badac64d32a281cba4245ed66d)
 
 ## Organizers
 * Ken Nakae (ExCELLS)
