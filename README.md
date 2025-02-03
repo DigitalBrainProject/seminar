@@ -156,7 +156,7 @@ What is the Digital Brain of Brain/MINDS 2.0 [(slides)](https://www.dropbox.com/
 
 ## Sponsors
 * [Japan Agency for Medical Research and Development (AMED)](https://www.amed.go.jp/en/) (TBC)
-* [Mathematics for industory platform (MfIP)](https://mfip.jp/)
+* [Mathematics for Industory Platform (MfIP)](https://mfip.jp/)
 * [Biology of Behaviro Change, Grant-in-Aid for Transformative Research Areas, MEXT](https://braidyn-bc.jp/)
 
 ## Supported by
