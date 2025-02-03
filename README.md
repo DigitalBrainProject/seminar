@@ -4,7 +4,7 @@ The aim of the Digital Brain Seminar series is to bring toghether people who are
 
 All seimnars are online or hybrid. Please [register](https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true) to get a zoom link.
 
-Most of the talks are archived on the [YouTube channel](https://www.youtube.com/@kennakae2779).
+Most of the talks are archived on the [YouTube channel](https://www.youtube.com/@kennakae2779/videos).
 
 # Upcoming Seminars
 
