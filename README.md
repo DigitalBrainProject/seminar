@@ -75,7 +75,7 @@ Introduction of Mathematics for Industry Platform (in Japanese)
 Emergence of Cognitive Functions in Natural and Artificial Neural Networks**
 
 ### 2024/12/3 17:00-18:30 JST, 9:00 - 10:30 CET
-[EBRAINS Seminar A: Outline, Atlas and Knowledge Graph](20241203_EBRAINS_A.html)
+[**EBRAINS Seminar A: Overview, Data Sharing and Brain Atlases**](20241203_EBRAINS_A.html)
 
 [**Katrin Amunts**](https://www.fz-juelich.de/profile/amunts_k)  
 EBRAINS – concepts, services and applications
