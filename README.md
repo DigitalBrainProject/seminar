@@ -60,6 +60,7 @@ Multiscale Simulations of Full Brain Models using Arbor and TVB
 
 [**Daisuke Tagami**](https://hyoka.ofc.kyushu-u.ac.jp/html/100023049_ja.html) (Kyushu University)  
 Introduction of Mathematics for Industry Platform (in Japanese)
+[YouTube](https://www.youtube.com/watch?v=nZx3RaYovHE)
 
 ### 2025/1/16 9:00-10:30 JST
 
@@ -82,20 +83,24 @@ Brain Atlases
 
 [**Oliver Schmid**](https://www.cscs.ch/about/staff)  
 The EBRAINS Knowledge Graph - a scientific metadata management** solution 
+[YouTube](https://www.youtube.com/watch?v=5axlpdjX8FU)
 
 ### 2024/11/12 Tue 18:00-19:30 JST
 
 [**Viktor Jirsa**](https://ins-amu.fr/jirsaviktor)(Institut de Neurosciences des Systèmes)  
 Virtual Brain Twins in Medicine
+[YouTube](https://www.youtube.com/watch?v=4duX5dLS19Y)
 
 ### 2024/10/22 Tue 13:00-14:00 JST
 
 **Yukako Yamane** (OIST)  
 Hands-on tutorial for OptiNiSt
+[YouTube](https://www.youtube.com/watch?v=3Z7SIKhO26M)
 
 ### 2024/9/30 13:00-14:00 JST
 **Rui Gong** (ExCELLS, NINS)  
 Tutorial on NIfTI Files, 3D Slicer and Image Registration using ANTs
+[YouTube](https://www.youtube.com/watch?v=c3TsjtgU0lU)
 
 ### 2024/9/19-21
 [1st Digital Brain Workshop](https://boatneck-weeder-7b7.notion.site/1st-Digital-Brain-Workshop-131a68936dda4867a88fedd25dfaac92)  
@@ -127,6 +132,7 @@ Creating bridges between the digital and physical realms with 3D vision
 
 13:00-13:30 **Ken Nakae** (ExCELLS, NINS)  
 How to use the Brian/MINDS data portal
+[YouTube](https://www.youtube.com/watch?v=83YRBKRUdxk)
 
 13:30-14:00 **Hiromichi Tsukada** (CMSAI, Chubu Univ.)  
 Connectome-based modeling using marmoset MRI and gene expression data
@@ -147,7 +153,9 @@ Kyoto University and Online
 Learning of hidden principled structures behind observations
 
 16:30-17:00 **Kenji Doya** (Okinawa Institute of Science and Technology Graduate University)  
-What is the Digital Brain of Brain/MINDS 2.0 [(slides)](https://www.dropbox.com/scl/fi/x0eeqy623p8sx3lvqv6v3/Doya2024DigitalBrain.pdf?rlkey=t1eb3b90fw2zp6pann5yn5688&dl=0)
+What is the Digital Brain of Brain/MINDS 2.0
+[(slides)](https://www.dropbox.com/scl/fi/x0eeqy623p8sx3lvqv6v3/Doya2024DigitalBrain.pdf?rlkey=t1eb3b90fw2zp6pann5yn5688&dl=0)
+[YouTube](https://www.youtube.com/watch?v=hDqiOSKc8Ks)
 
 ### [Early Web Site](https://boatneck-weeder-7b7.notion.site/Digital-Brain-Seminar-90cc94badac64d32a281cba4245ed66d)
 
