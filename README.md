@@ -14,19 +14,19 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 High-dimensional interpretable factor analysis via penalization**
 
 ## 2025/2/18 Tue 17:00-18:30 JST
-EBRAINS Seminar C: 
+[**EBRAINS Seminar C: Research Infrastructure and Education**](20250218_EBRAINS_C.html)
 
 **Wouter Klijn**  
-The architecture of the EBRAINS research infrastructure
+EBRAINS-RI architecture, multiple scales of complexity
 
-**Lena Oden**  
-High Performance Computing (HPC)
+**Franziska Vogel**  
+EBRAINS Education and events for early career researcher
 
 ## 2025/2/25 Tue 17:00-18:30 JST
-EBRAINS Seminar D: 
+**EBRAINS Seminar D**
 
 **TBC**  
-EBRAINS Education and events for early career researchers 
+High Performance Computing (HPC) 
 
 **Jan Bjaalie** and **Ekaterina Zossimova**  
 Co-Design & Science Support
