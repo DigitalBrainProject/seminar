@@ -16,6 +16,8 @@ High-dimensional interpretable factor analysis via penalization**
 ## 2025/2/18 Tue 17:00-18:30 JST
 [**EBRAINS Seminar C: Research Infrastructure and Education**](20250218_EBRAINS_C.html)
 
+[Registration link](https://us06web.zoom.us/meeting/register/tZ0qdeyrpzotE9c5jm0wQlY0Zu2nm3eKlbyi)
+
 **Wouter Klijn**  
 EBRAINS-RI architecture, multiple scales of complexity
 
