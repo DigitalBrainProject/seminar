@@ -8,12 +8,20 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 # Upcoming Seminars
 
-## 2025/2/17 10:30-12:00 JST
+## 2025/2/25 Tue 17:00-18:30 JST
+[**EBRAINS Seminar D: High Performance Computing and Co-Design**](20250225_EBRAINS_D.html)
 
-[**Kei Hirose**](https://keihirose.com/) (Kyushu University)  
-High-dimensional interpretable factor analysis via penalization**
+[Registration link](https://us06web.zoom.us/meeting/register/fZcX37xZT0ee1L26NNNtaA) for this semnar
 
-## 2025/2/18 Tue 17:00-18:30 JST
+**Jan Bjaalie** and **Ekaterina Zossimova**  
+Co-Design & Science Support
+
+**Lena Oden**  
+EBRAINS Base infrastructure and HPC services
+
+# Past Seminars
+
+### 2025/2/18 Tue 17:00-18:30 JST
 [**EBRAINS Seminar C: Research Infrastructure and Education**](20250218_EBRAINS_C.html)
 
 [Registration link](https://us06web.zoom.us/meeting/register/tZ0qdeyrpzotE9c5jm0wQlY0Zu2nm3eKlbyi) for this seimnar
@@ -24,16 +32,10 @@ EBRAINS-RI architecture, multiple scales of complexity
 **Franziska Vogel**  
 EBRAINS Education and events for early career researcher
 
-## 2025/2/25 Tue 17:00-18:30 JST
-**EBRAINS Seminar D**
+### 2025/2/17 10:30-12:00 JST
 
-**TBC**  
-High Performance Computing (HPC) 
-
-**Jan Bjaalie** and **Ekaterina Zossimova**  
-Co-Design & Science Support
-
-# Past Seminars
+[**Kei Hirose**](https://keihirose.com/) (Kyushu University)  
+High-dimensional interpretable factor analysis via penalization**
 
 ### 2025/1/30 Thu 9:00-16:00 JST
 [**Allen Neural Dynamics Workshop at OIST**](https://www.oist.jp/conference/allen-neural-dynamics-workshop)  
