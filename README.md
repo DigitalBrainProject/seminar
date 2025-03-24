@@ -8,7 +8,16 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 # Upcoming Seminars
 
-## 2025/2/25 Tue 17:00-18:30 JST
+### 2025/3/27 Thu 17:00-18:30 JST
+[**Alain Destexhe**](https://neuropsi.cnrs.fr/en/departments/icn/group-leader-alain-destexhe/) (NeuroPSI)
+
+A computational approach to evaluate how molecular mechanisms impact large-scale brain activity (TBC)
+
+This seminar will present the authors' [recent preprint](https://doi.org/10.21203/rs.3.rs-4610184/v1)
+
+# Past Seminars
+
+### 2025/2/25 Tue 17:00-18:30 JST
 [**EBRAINS Seminar D: High Performance Computing and Co-Design**](20250225_EBRAINS_D.html)
 
 [Registration link](https://us06web.zoom.us/meeting/register/fZcX37xZT0ee1L26NNNtaA) for this semnar
@@ -18,9 +27,6 @@ Co-Design & Science Support
 
 **Lena Oden**  
 EBRAINS Base infrastructure and HPC services
-
-# Past Seminars
-
 ### 2025/2/18 Tue 17:00-18:30 JST
 [**EBRAINS Seminar C: Research Infrastructure and Education**](20250218_EBRAINS_C.html)
 
