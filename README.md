@@ -8,7 +8,7 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 # Upcoming Seminars
 
-### 2025/3/27 Thu 17:00-18:30 JST
+### 2025/3/27 Thu 17:30-19:00 JST (not 17:00-18:30 JST, sorry)
 [**Alain Destexhe**](https://neuropsi.cnrs.fr/en/departments/icn/group-leader-alain-destexhe/) (NeuroPSI)
 
 A computational approach to evaluate how molecular mechanisms impact large-scale brain activity (TBC)
