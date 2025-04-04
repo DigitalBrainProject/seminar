@@ -8,6 +8,24 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 # Upcoming Seminars
 
+### 2025/6/13 Fri 10:30-12:00 (JST)
+
+**Presentator**: [Anton Arkhipov](https://alleninstitute.org/person/anton-arkhipov/) (Allen Institute)
+
+**Dat**e:  2025/6/13 Fri 10:30-12:00 (JST), 6/12 Thr 18:30-20:00 at Seattle time
+
+**Place**: Zoom (The registered page is above and same as usual link)
+
+**Title**: Integrating multimodal data for bio-realistic simulations of brain circuits   
+
+Recent Nature Neuroscience Paper: https://www.nature.com/articles/s41593-025-01904-7.pdf
+
+**Abstract**: 
+A central question in neuroscience is how the structure of the brain determines its activity and function. To explore this systematically, we develop large-scale bio-realistic simulations of brain circuits, which integrate a broad array of experimental data: Distribution and morpho-electric properties of different neuron types; Connection probabilities, synaptic weights, axonal delays, and dendritic targeting rules; And a representation of inputs into the simulated circuits from other parts of the brain. We will discuss this approach focusing on the 230,000-neuron model of mouse primary visual cortex (area V1). Simulations of neural activity in the model match experimental recordings in vivo on a number of metrics, such as firing rates, direction selectivity, and others. Applications include the following problems of broad interest: Understanding how architecture of brain circuit gives rise to the observed functional activity; Learning of behavioral and computational tasks in biological and artificial networks; Generation of the extracellular electric potential due to synaptic activity in the cortex. The model is shared freely with the community via brain-map.org, as are the datasets it is based on.
+
+
+# Past Seminars
+
 ### 2025/3/27 Thu 17:30-19:00 JST (not 17:00-18:30 JST, sorry)
 [**Alain Destexhe**](https://neuropsi.cnrs.fr/en/departments/icn/group-leader-alain-destexhe/) (NeuroPSI)
 
@@ -15,7 +33,6 @@ A computational approach to evaluate how molecular mechanisms impact large-scale
 
 This seminar will present the authors' [recent preprint](https://doi.org/10.21203/rs.3.rs-4610184/v1)
 
-# Past Seminars
 
 ### 2025/2/25 Tue 17:00-18:30 JST
 [**EBRAINS Seminar D: High Performance Computing and Co-Design**](20250225_EBRAINS_D.html)
