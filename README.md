@@ -10,6 +10,20 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 ### 2025/6/13 Fri 10:30-12:00 (JST)
 
+**Presentator**: [Stefano Panzeri](https://www.uke.de/english/departments-institutes/institutes/department-of-excellence-for-neural-information-processing/team/index.html) (Institute of Neural Information Processing, University Medical Center Hamburg-Eppendorf)
+
+**Dat**e:  2025/8/27 Wed 15:00-16:30 (JST), 8/27 Wed 8:00-9:30 (CET)
+
+**Place**: Zoom (The registered page is above and same as usual link)
+
+**Title**: Dissecting the contribution to perceptual decisions of encoding and readout of neural information
+
+**Abstract**: 
+Perceptual decisions require that neural populations encode information about the sensory environment and that other downstream populations read it out to inform behavioral outputs.  Here we present our computational work to provide methods that individuate and tease apart the contribution of these two neural operations to the formation of perceptual decisions. We exemplify these methods with the study of several datasets from sensory and parietal cortices and we discuss their implications for understanding the emergent computations of neural population codes. 
+
+
+# Past Seminars
+
 **Presentator**: [Anton Arkhipov](https://alleninstitute.org/person/anton-arkhipov/) (Allen Institute)
 
 **Dat**e:  2025/6/13 Fri 10:30-12:00 (JST), 6/12 Thr 18:30-20:00 at Seattle time
@@ -22,9 +36,6 @@ Recent Nature Neuroscience Paper: https://www.nature.com/articles/s41593-025-019
 
 **Abstract**: 
 A central question in neuroscience is how the structure of the brain determines its activity and function. To explore this systematically, we develop large-scale bio-realistic simulations of brain circuits, which integrate a broad array of experimental data: Distribution and morpho-electric properties of different neuron types; Connection probabilities, synaptic weights, axonal delays, and dendritic targeting rules; And a representation of inputs into the simulated circuits from other parts of the brain. We will discuss this approach focusing on the 230,000-neuron model of mouse primary visual cortex (area V1). Simulations of neural activity in the model match experimental recordings in vivo on a number of metrics, such as firing rates, direction selectivity, and others. Applications include the following problems of broad interest: Understanding how architecture of brain circuit gives rise to the observed functional activity; Learning of behavioral and computational tasks in biological and artificial networks; Generation of the extracellular electric potential due to synaptic activity in the cortex. The model is shared freely with the community via brain-map.org, as are the datasets it is based on.
-
-
-# Past Seminars
 
 ### 2025/3/27 Thu 17:30-19:00 JST (not 17:00-18:30 JST, sorry)
 [**Alain Destexhe**](https://neuropsi.cnrs.fr/en/departments/icn/group-leader-alain-destexhe/) (NeuroPSI)
