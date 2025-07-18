@@ -8,11 +8,11 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 # Upcoming Seminars
 
-### 2025/6/13 Fri 10:30-12:00 (JST)
+### 2025/8/27 Wed 15:00-16:30 (JST)
 
 **Presentator**: [Stefano Panzeri](https://www.uke.de/english/departments-institutes/institutes/department-of-excellence-for-neural-information-processing/team/index.html) (Institute of Neural Information Processing, University Medical Center Hamburg-Eppendorf)
 
-**Dat**e:  2025/8/27 Wed 15:00-16:30 (JST), 8/27 Wed 8:00-9:30 (CET)
+**Date**:  2025/8/27 Wed 15:00-16:30 (JST), 8/27 Wed 8:00-9:30 (CET)
 
 **Place**: Zoom (The registered page is above and same as usual link)
 
