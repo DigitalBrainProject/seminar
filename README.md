@@ -10,6 +10,22 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 ### 2025/8/27 Wed 15:00-16:30 (JST)
 
+**Presentator**: [Kentaro Miyamoto](https://www.kentaromiyamoto-lab.com/) (RIKEN CBS)
+
+**Date**:  2025/10/7 Tue 13:00-12:30 (JST)
+
+**Place**: Zoom (The registered page is above and same as usual link)
+
+**Title**: Behavioural and neural mechanism of social metacognition in predicting others' performance
+
+**Abstract**: 
+When we collaborate with others to tackle new challenges, we anticipate the roles that each team member will play, consider our own role based on these predictions, and adjust our behaviour accordingly. Because each member differs in experience and skills, it is necessary to flexibly adapt the strategy used for prediction. For example, when interacting with beginners who have less career experience, we can make reasonable predictions about their performance by projecting adjusting introspection ('social metacognition'). In contrast, the same strategy cannot be applied to experts with more extensive experience. In this talk, I will introduce our latest research addressing this issue. Specifically, we found that the anterior lateral prefrontal cortex (area 47) is engaged when predicting the thoughts of beginners through social metacognition, whereas the temporoparietal junction (TPJ) is recruited when predicting the thoughts of experts based on heuristics. The lecture will begin with an overview of the foundations of metacognition and then present the studies that led to these findings.
+
+
+# Past Seminars
+
+### 2025/8/27 Wed 15:00-16:30 (JST)
+
 **Presentator**: [Stefano Panzeri](https://www.uke.de/english/departments-institutes/institutes/department-of-excellence-for-neural-information-processing/team/index.html) (Institute of Neural Information Processing, University Medical Center Hamburg-Eppendorf)
 
 **Date**:  2025/8/27 Wed 15:00-16:30 (JST), 8/27 Wed 8:00-9:30 (CET)
@@ -20,9 +36,6 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 **Abstract**: 
 Perceptual decisions require that neural populations encode information about the sensory environment and that other downstream populations read it out to inform behavioral outputs.  Here we present our computational work to provide methods that individuate and tease apart the contribution of these two neural operations to the formation of perceptual decisions. We exemplify these methods with the study of several datasets from sensory and parietal cortices and we discuss their implications for understanding the emergent computations of neural population codes. 
-
-
-# Past Seminars
 
 **Presentator**: [Anton Arkhipov](https://alleninstitute.org/person/anton-arkhipov/) (Allen Institute)
 
