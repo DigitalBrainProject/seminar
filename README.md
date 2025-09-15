@@ -8,7 +8,7 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 # Upcoming Seminars
 
-### 2025/8/27 Wed 15:00-16:30 (JST)
+### 2025/10/7 Tue 13:00-12:30 (JST)
 
 **Presentator**: [Kentaro Miyamoto](https://www.kentaromiyamoto-lab.com/) (RIKEN CBS)
 
