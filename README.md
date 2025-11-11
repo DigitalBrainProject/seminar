@@ -8,6 +8,23 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 # Upcoming Seminars
 
+### 2025/12/10 Wed 14:30-16:30 (JST)
+
+**Presentator**: [Honda Naoki](https://sites.google.com/view/data-driven-biology/) (Nagoya University)
+
+**Date**:  2025/12/10 Wed 14:30-16:30 (JST)
+
+**Place**: Zoom (The registered page is above and same as usual link)
+
+**Title**: Revisiting Sperry in the Age of Connectomics: Genetic Rules of Brain-Wide Wiring
+
+
+**Abstract**: 
+Understanding how brain-wide neural circuits are genetically organized remains one of the fundamental challenges in neuroscience. Roger Sperry’s classical chemoaffinity theory proposed that molecular gradients provide positional cues for axonal wiring, yet its application has been largely limited to localized sensory systems. Here, we introduce SPERRFY (Spatial Positional Encoding for Reconstructing Rules of axonal Fiber connectivitY), a data-driven framework to examine whether Sperry’s concept can be generalized to the entire brain. By integrating mesoscale connectomic data with spatial transcriptomic maps from the Allen Mouse Brain Atlas, SPERRFY applies canonical correlation analysis (CCA) to identify latent correlated structures between gene-expression and connectivity spaces, thereby inferring positional gradients that may reflect molecular constraints underlying long-range axonal organization. This framework bridges molecular and anatomical levels of organization, providing a quantitative basis for reinterpreting Sperry’s chemoaffinity theory in the context of whole-brain connectomics.
+
+
+# Past Seminars
+
 ### 2025/10/7 Tue 13:00-14:30 (JST)
 
 **Presentator**: [Kentaro Miyamoto](https://www.kentaromiyamoto-lab.com/) (RIKEN CBS)
@@ -21,8 +38,6 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 **Abstract**: 
 When we collaborate with others to tackle new challenges, we anticipate the roles that each team member will play, consider our own role based on these predictions, and adjust our behaviour accordingly. Because each member differs in experience and skills, it is necessary to flexibly adapt the strategy used for prediction. For example, when interacting with beginners who have less career experience, we can make reasonable predictions about their performance by projecting adjusting introspection ('social metacognition'). In contrast, the same strategy cannot be applied to experts with more extensive experience. In this talk, I will introduce our latest research addressing this issue. Specifically, we found that the anterior lateral prefrontal cortex (area 47) is engaged when predicting the thoughts of beginners through social metacognition, whereas the temporoparietal junction (TPJ) is recruited when predicting the thoughts of experts based on heuristics. The lecture will begin with an overview of the foundations of metacognition and then present the studies that led to these findings.
 
-
-# Past Seminars
 
 ### 2025/8/27 Wed 15:00-16:30 (JST)
 
