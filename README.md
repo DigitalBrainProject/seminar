@@ -26,8 +26,7 @@ Understanding how brain-wide neural circuits are genetically organized remains o
 
 **Presentator**: [Tadashi Yamazaki](https://researchmap.jp/tyam) (The University of Electro-Communications)
 
-**Date**:  2025/12/10 Wed 14:30-16:30 (JST)
-
+**Date**:  2026/1/13 Tue 13:00
 **Place**: Zoom (The registered page is above and same as usual link)
 
 **Title**: Development of a biophysically detailed neural circuit simulator and its application to whole mouse cortex simulations
