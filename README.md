@@ -22,6 +22,29 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 **Abstract**: 
 Understanding how brain-wide neural circuits are genetically organized remains one of the fundamental challenges in neuroscience. Roger Sperry’s classical chemoaffinity theory proposed that molecular gradients provide positional cues for axonal wiring, yet its application has been largely limited to localized sensory systems. Here, we introduce SPERRFY (Spatial Positional Encoding for Reconstructing Rules of axonal Fiber connectivitY), a data-driven framework to examine whether Sperry’s concept can be generalized to the entire brain. By integrating mesoscale connectomic data with spatial transcriptomic maps from the Allen Mouse Brain Atlas, SPERRFY applies canonical correlation analysis (CCA) to identify latent correlated structures between gene-expression and connectivity spaces, thereby inferring positional gradients that may reflect molecular constraints underlying long-range axonal organization. This framework bridges molecular and anatomical levels of organization, providing a quantitative basis for reinterpreting Sperry’s chemoaffinity theory in the context of whole-brain connectomics.
 
+### 2026/1/13 Tue 13:00
+
+**Presentator**: [Tadashi Yamazaki](https://researchmap.jp/tyam) (The University of Electro-Communications)
+
+**Date**:  2025/12/10 Wed 14:30-16:30 (JST)
+
+**Place**: Zoom (The registered page is above and same as usual link)
+
+**Title**: Development of a biophysically detailed neural circuit simulator and its application to whole mouse cortex simulations
+
+
+**Abstract**: 
+Understanding the brain requires linking microscopic biophysical properties (e.g., ion channel dynamics and dendritic morphology) to emergent macroscopic phenomena (e.g., neural oscillations and network dynamics). While biologically detailed models are instrumental for this mechanistic insight, their inherent computational cost is substantial. While conventional simulators like NEURON and Arbor are highly effective for general use, in simulating models at the extreme scale, they could become inefficient. This is primarily in terms of their scalability and optimization to fully leverage modern High-Performance Computing (HPC) architectures.
+
+We introduce Neulite (https://numericalbrain.org/neulite/), a light-weight biophysically detailed neural circuit simulator. It is architecturally defined by two core components: a frontend compliant with the Allen Institute's Brain Modeling ToolKit (BMTK), and a portable numerical kernel. The frontend facilitates biological plausibility and reproducibility through the utilization of standardized data. The kernel, which can be specifically tuned for different computing architectures, allows us to overcome the limitations of conventional simulators through optimized, domain-specific algorithms.
+
+Neulite has been utilized to successfully execute the Allen Institute's whole mouse cortex model on the Supercomputer Fugaku. We used the entire Fugaku system to simulate 9 million biologically detailed neurons and 26 billion synapses, demonstrating a significant scale of computation. This work is the result of an international collaboration with the team of Dr. Anton Arkhipov at the Allen Institute, where their comprehensive model met our high-performance simulation technology, with support from key domestic contributors (RIKEN R-CCS, RIST, and Yamaguchi University). Neulite is therefore a valuable tool for achieving data-driven, large-scale modeling and advancing the understanding of how cellular properties influence overall neural circuit function.
+
+The content of this talk has been published in a conference paper [1].
+
+[1] Rin Kuriyama*, Kaaya Akira*, Laura Green, Beatriz Herrera, Kael Dai, Mari Iura, Gilles Gouaillardet, Asako Terasawa, Taira Kobayashi, Jun Igarashi, Anton Arkhipov, Tadashi Yamazaki (*: equally contributed). Microscopic-Level Mouse Whole Cortex Simulation Composed of 9 Million Biophysical Neurons and 26 Billion Synapses on the Supercomputer Fugaku. in The International Conference for High Performance Computing, Networking, Storage and Analysis (SC ’25), November 16–21, 2025, St Louis, MO, USA. ACM, New York, NY, USA, 11 pages. doi: 10.1145/3712285.3759819.
+
+
 
 # Past Seminars
 
