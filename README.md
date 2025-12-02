@@ -14,7 +14,7 @@ Most of the talks are archived on the [YouTube channel](https://www.youtube.com/
 
 **Date**:  2025/12/10 Wed 14:30-16:30 (JST)
 
-**Place**: Zoom (The registered page is above and same as usual link)
+**Place**: Zoom (https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true)
 
 **Title**: Revisiting Sperry in the Age of Connectomics: Genetic Rules of Brain-Wide Wiring
 
