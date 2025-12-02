@@ -28,7 +28,7 @@ Understanding how brain-wide neural circuits are genetically organized remains o
 
 **Date**:  2026/1/13 Tue 13:00-14:30(JST)
 
-**Place**: Zoom (The registered page is above and same as usual link)
+**Place**: Zoom (https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true)
 
 **Title**: Development of a biophysically detailed neural circuit simulator and its application to whole mouse cortex simulations
 
