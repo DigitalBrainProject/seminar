@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Past Seminars - Digital Brain Seminar</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="archive.css">
+    <link rel="icon" type="image/png" href="brain-logo.png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <a href="index.html" class="nav-logo"><img src="brain-logo.png" alt="Logo" class="logo-icon"> Digital Brain
+            Seminar</a>
+
+        <div class="hamburger" id="hamburger-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="nav-links" id="nav-links">
+            <a href="index.html">Upcoming</a>
+            <a href="archive.html" class="active">Past Seminars</a>
+            <a href="https://www.youtube.com/@kennakae2779/videos" target="_blank">YouTube</a>
+            <a href="https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true"
+                target="_blank">Register</a>
+        </div>
+    </nav>
+
+    <section class="archive-hero">
+        <canvas id="hero-canvas"></canvas>
+        <div class="container">
+            <h1>Past Seminars</h1>
+            <p>Archive of past seminars. Click on a card to view details.</p>
+        </div>
+    </section>
+
+    <div class="container">
+        <!-- Year Navigation -->
+        <div class="year-nav">
+            <a href="#year-2025" class="year-tab active">2025</a>
+            <a href="#year-2024" class="year-tab">2024</a>
+        </div>
+
+        <!-- 2025 Seminars -->
+        <section id="year-2025" class="year-section">
+            <h2>2025</h2>
+
+            <!-- 2025 - Honda Naoki -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/12/10 Wed 14:30-16:30 (JST)</div>
+                    <h3 class="card-title">Revisiting Sperry in the Age of Connectomics: Genetic Rules of Brain-Wide
+                        Wiring</h3>
+                    <div class="speaker"><a href="https://sites.google.com/view/data-driven-biology/" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Naoki Honda</a> (Nagoya
+                        University)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Abstract:</strong> Understanding how brain-wide neural circuits are
+                        genetically organized remains one of the fundamental challenges in neuroscience. Roger Sperry's
+                        classical chemoaffinity theory proposed that molecular gradients provide positional cues for
+                        axonal wiring, yet its application has been largely limited to localized sensory systems. Here,
+                        we introduce SPERRFY (Spatial Positional Encoding for Reconstructing Rules of axonal Fiber
+                        connectivitY), a data-driven framework to examine whether Sperry's concept can be generalized to
+                        the entire brain. By integrating mesoscale connectomic data with spatial transcriptomic maps
+                        from the Allen Mouse Brain Atlas, SPERRFY applies canonical correlation analysis (CCA) to
+                        identify latent correlated structures between gene-expression and connectivity spaces, thereby
+                        inferring positional gradients that may reflect molecular constraints underlying long-range
+                        axonal organization. This framework bridges molecular and anatomical levels of organization,
+                        providing a quantitative basis for reinterpreting Sperry's chemoaffinity theory in the context
+                        of whole-brain connectomics.</p>
+                </div>
+            </article>
+
+            <!-- 2025-1 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/10/7 Tue 13:00-14:30 (JST)</div>
+                    <h3 class="card-title">Behavioural and neural mechanism of social metacognition in predicting
+                        others' performance</h3>
+                    <div class="speaker"><a href="https://www.kentaromiyamoto-lab.com/" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Kentaro Miyamoto</a> (RIKEN
+                        CBS)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Abstract:</strong> When we collaborate with others to tackle new
+                        challenges, we anticipate the roles that each team member will play, consider our own role based
+                        on these predictions, and adjust our behaviour accordingly. Because each member differs in
+                        experience and skills, it is necessary to flexibly adapt the strategy used for prediction. For
+                        example, when interacting with beginners who have less career experience, we can make reasonable
+                        predictions about their performance by projecting adjusting introspection ('social
+                        metacognition'). In contrast, the same strategy cannot be applied to experts with more extensive
+                        experience. In this talk, I will introduce our latest research addressing this issue.
+                        Specifically, we found that the anterior lateral prefrontal cortex (area 47) is engaged when
+                        predicting the thoughts of beginners through social metacognition, whereas the temporoparietal
+                        junction (TPJ) is recruited when predicting the thoughts of experts based on heuristics. The
+                        lecture will begin with an overview of the foundations of metacognition and then present the
+                        studies that led to these findings.</p>
+                </div>
+            </article>
+
+            <!-- 2025-2 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/8/27 Wed 15:00-16:30 (JST)</div>
+                    <h3 class="card-title">Dissecting the contribution to perceptual decisions of encoding and readout
+                        of neural information</h3>
+                    <div class="speaker"><a
+                            href="https://www.uke.de/english/departments-institutes/institutes/department-of-excellence-for-neural-information-processing/team/index.html"
+                            target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Stefano
+                            Panzeri</a> (University Medical Center Hamburg-Eppendorf)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Abstract:</strong> Perceptual decisions require that neural populations
+                        encode information about the sensory environment and that other downstream populations read it
+                        out to inform behavioral outputs. Here we present our computational work to provide methods that
+                        individuate and tease apart the contribution of these two neural operations to the formation of
+                        perceptual decisions. We exemplify these methods with the study of several datasets from sensory
+                        and parietal cortices and we discuss their implications for understanding the emergent
+                        computations of neural population codes.</p>
+                </div>
+            </article>
+
+            <!-- 2025-3 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/6/13 Fri 10:30-12:00 (JST)</div>
+                    <h3 class="card-title">Integrating multimodal data for bio-realistic simulations of brain circuits
+                    </h3>
+                    <div class="speaker"><a href="https://alleninstitute.org/person/anton-arkhipov/" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Anton Arkhipov</a> (Allen
+                        Institute)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Abstract:</strong> A central question in neuroscience is how the
+                        structure of the brain determines its activity and function. To explore this systematically, we
+                        develop large-scale bio-realistic simulations of brain circuits, which integrate a broad array
+                        of experimental data: Distribution and morpho-electric properties of different neuron types;
+                        Connection probabilities, synaptic weights, axonal delays, and dendritic targeting rules; And a
+                        representation of inputs into the simulated circuits from other parts of the brain. We will
+                        discuss this approach focusing on the 230,000-neuron model of mouse primary visual cortex (area
+                        V1). Simulations of neural activity in the model match experimental recordings in vivo on a
+                        number of metrics, such as firing rates, direction selectivity, and others. Applications include
+                        the following problems of broad interest: Understanding how architecture of brain circuit gives
+                        rise to the observed functional activity; Learning of behavioral and computational tasks in
+                        biological and artificial networks; Generation of the extracellular electric potential due to
+                        synaptic activity in the cortex. The model is shared freely with the community via
+                        brain-map.org, as are the datasets it is based on.</p>
+                    <div class="card-links">
+                        <a href="https://www.nature.com/articles/s41593-025-01904-7.pdf" target="_blank"
+                            class="link-btn">📄 Nature Neuroscience Paper</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-4 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/3/27 Thu 17:30-19:00 (JST)</div>
+                    <h3 class="card-title">A computational approach to evaluate how molecular mechanisms impact
+                        large-scale brain activity</h3>
+                    <div class="speaker"><a
+                            href="https://neuropsi.cnrs.fr/en/departments/icn/group-leader-alain-destexhe/"
+                            target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Alain
+                            Destexhe</a> (NeuroPSI)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Abstract:</strong> This seminar will present the authors' recent
+                        preprint on a computational approach to evaluate how molecular mechanisms impact large-scale
+                        brain activity.</p>
+                    <div class="card-links">
+                        <a href="https://doi.org/10.21203/rs.3.rs-4610184/v1" target="_blank" class="link-btn">📄
+                            Preprint</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-5 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/2/25 Tue 17:00-18:30 (JST)</div>
+                    <h3 class="card-title">EBRAINS Seminar D: High Performance Computing and Co-Design</h3>
+                    <div class="speaker">Jan Bjaalie, Ekaterina Zossimova (Co-Design & Science Support), Lena Oden
+                        (EBRAINS Base infrastructure and HPC services)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topics:</strong> Co-Design & Science Support, EBRAINS Base
+                        infrastructure and HPC services</p>
+                    <div class="card-links">
+                        <a href="https://digitalbrainproject.github.io/seminar/20250225_EBRAINS_D.html" target="_blank"
+                            class="link-btn">🔗 Details</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-6 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/2/18 Tue 17:00-18:30 (JST)</div>
+                    <h3 class="card-title">EBRAINS Seminar C: Research Infrastructure and Education</h3>
+                    <div class="speaker">Wouter Klijn (EBRAINS-RI architecture), Franziska Vogel (EBRAINS Education)
+                    </div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topics:</strong> EBRAINS-RI architecture, multiple scales of complexity,
+                        EBRAINS Education and events for early career researcher</p>
+                    <div class="card-links">
+                        <a href="https://digitalbrainproject.github.io/seminar/20250218_EBRAINS_C.html" target="_blank"
+                            class="link-btn">🔗 Details</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-7 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/1/30 Thu 9:00-16:00 (JST)</div>
+                    <h3 class="card-title">Allen Neural Dynamics Workshop at OIST</h3>
+                    <div class="speaker"><a href="https://alleninstitute.org/person/jim-berg/" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">James Berg</a>, <a
+                            href="https://alleninstitute.org/person/saskia-de-vries/" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Saskia de Vries</a> (Allen
+                        Institute for Neural Dynamics)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Location:</strong> Okinawa Institute of Science and Technology (on-site
+                        only)</p>
+                    <div class="card-links">
+                        <a href="https://www.oist.jp/conference/allen-neural-dynamics-workshop" target="_blank"
+                            class="link-btn">🔗 Workshop Page</a>
+                        <a href="https://youtu.be/KwIbGYFokyM" target="_blank" class="link-btn">🎥 Movie 1</a>
+                        <a href="https://youtu.be/Qh1y_ix8gXE" target="_blank" class="link-btn">🎥 Movie 2</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-8 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/1/28 Tue 17:00-18:30 (JST)</div>
+                    <h3 class="card-title">EBRAINS Seminar B: Simulation Capabilities</h3>
+                    <div class="speaker">Susanne Kunkel, Thorsten Hater (Jülich Research Centre)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topics:</strong> The NEST ecosystem: A key enabler of efficient
+                        brain-scale spiking network simulation and sustainable neuroscience research. Multiscale
+                        Simulations of Full Brain Models using Arbor and TVB. Flashlight talks: QUINT workflow (Sharon
+                        Yates), CobraWAP workflow (Giulia De Bonis), Virtual Brain Twin workflow (Wouter Klijn).</p>
+                    <div class="card-links">
+                        <a href="https://digitalbrainproject.github.io/seminar/20250128_EBRAINS_B.html" target="_blank"
+                            class="link-btn">🔗 Details</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-9 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/1/16 Thu 13:00-14:30 (JST)</div>
+                    <h3 class="card-title">Introduction of Mathematics for Industry Platform (日本語)</h3>
+                    <div class="speaker"><a href="https://hyoka.ofc.kyushu-u.ac.jp/html/100023049_ja.html"
+                            target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Daisuke
+                            Tagami</a> (Kyushu University)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Note:</strong> This seminar was presented in Japanese.</p>
+                    <div class="card-links">
+                        <a href="https://www.youtube.com/watch?v=nZx3RaYovHE" target="_blank" class="link-btn">🎥
+                            YouTube</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-10 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/1/16 Thu 9:00-10:30 (JST)</div>
+                    <h3 class="card-title">Science at the Allen Institute for Neural Dynamics (AIND)</h3>
+                    <div class="speaker">Karel Svoboda (Allen Institute for Neural Dynamics)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topic:</strong> Overview of science and research programs at the Allen
+                        Institute for Neural Dynamics.</p>
+                    <div class="card-links">
+                        <a href="https://digitalbrainproject.github.io/seminar/20250116_Svoboda.html" target="_blank"
+                            class="link-btn">🔗 Details</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2025-11 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2025/1/7 Tue 15:00-16:30 (JST)</div>
+                    <h3 class="card-title">Emergence of Cognitive Functions in Natural and Artificial Neural Networks
+                    </h3>
+                    <div class="speaker"><a href="https://cogi.kaist.ac.kr/" target="_blank" rel="noopener noreferrer"
+                            style="text-decoration: underline;">Se-Bum Paik</a> (KAIST)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topic:</strong> Understanding the emergence of cognitive functions in
+                        both natural and artificial neural networks through computational approaches.</p>
+                </div>
+            </article>
+        </section>
+
+        <!-- 2024 Seminars -->
+        <section id="year-2024" class="year-section">
+            <h2>2024</h2>
+
+            <!-- 2024-1 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/12/3 Tue 17:00-18:30 (JST)</div>
+                    <h3 class="card-title">EBRAINS Seminar A: Overview, Data Sharing and Brain Atlases</h3>
+                    <div class="speaker"><a href="https://www.fz-juelich.de/profile/amunts_k" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Katrin Amunts</a>, <a
+                            href="https://www.med.uio.no/imb/english/people/aca/leergaar/" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Trygve Leergaard</a>, <a
+                            href="https://www.cscs.ch/about/staff" target="_blank" rel="noopener noreferrer"
+                            style="text-decoration: underline;">Oliver Schmid</a></div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topics:</strong> EBRAINS – concepts, services and applications. Brain
+                        Atlases. The EBRAINS Knowledge Graph - a scientific metadata management solution.</p>
+                    <div class="card-links">
+                        <a href="https://digitalbrainproject.github.io/seminar/20241203_EBRAINS_A.html" target="_blank"
+                            class="link-btn">🔗 Details</a>
+                        <a href="https://www.youtube.com/watch?v=5axlpdjX8FU" target="_blank" class="link-btn">🎥
+                            YouTube</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2024-2 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/11/12 Tue 18:00-19:30 (JST)</div>
+                    <h3 class="card-title">Virtual Brain Twins in Medicine</h3>
+                    <div class="speaker"><a href="https://ins-amu.fr/jirsaviktor" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Viktor Jirsa</a> (Institut de
+                        Neurosciences des Systèmes)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topic:</strong> Virtual Brain Twins - digital representations of
+                        individual brains for personalized medicine applications.</p>
+                    <div class="card-links">
+                        <a href="https://www.youtube.com/watch?v=4duX5dLS19Y" target="_blank" class="link-btn">🎥
+                            YouTube</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2024-3 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/10/22 Tue 13:00-14:00 (JST)</div>
+                    <h3 class="card-title">Hands-on tutorial for OptiNiSt</h3>
+                    <div class="speaker">Yukako Yamane (OIST)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topic:</strong> Hands-on tutorial for OptiNiSt, an optical neural
+                        imaging software tool.</p>
+                    <div class="card-links">
+                        <a href="https://www.youtube.com/watch?v=3Z7SIKhO26M" target="_blank" class="link-btn">🎥
+                            YouTube</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2024-4 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/9/30 Mon 13:00-14:00 (JST)</div>
+                    <h3 class="card-title">Tutorial on NIfTI Files, 3D Slicer and Image Registration using ANTs</h3>
+                    <div class="speaker">Rui Gong (ExCELLS, NINS)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topic:</strong> Tutorial covering NIfTI file format, 3D Slicer software,
+                        and image registration using ANTs (Advanced Normalization Tools).</p>
+                    <div class="card-links">
+                        <a href="https://www.youtube.com/watch?v=c3TsjtgU0lU" target="_blank" class="link-btn">🎥
+                            YouTube</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2024-5 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/9/19-21</div>
+                    <h3 class="card-title">1st Digital Brain Workshop</h3>
+                    <div class="speaker">Kyushu University Nihonbashi Satellite (on-site only)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Event:</strong> The first Digital Brain Workshop held as an on-site
+                        event at Kyushu University Nihonbashi Satellite.</p>
+                    <div class="card-links">
+                        <a href="https://boatneck-weeder-7b7.notion.site/1st-Digital-Brain-Workshop-131a68936dda4867a88fedd25dfaac92"
+                            target="_blank" class="link-btn">🔗 Workshop Page</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2024-6 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/7/4 Thu 13:30-17:00 (JST)</div>
+                    <h3 class="card-title">Data sharing and standardization in human neuroscience</h3>
+                    <div class="speaker">Franco Pestilli (University of Texas), Jean-Baptiste Poline (McGill University)
+                    </div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Talks:</strong> 13:30-14:30 Franco Pestilli: Putting brain data and
+                        cloud technology to good use. 14:45-15:45 Jean-Baptiste Poline: Changing the landscape of
+                        datasharing in brain research with standardized distributed infrastructures: a Neurobagel
+                        journey. 16:00-17:00 Panel Discussion.</p>
+                </div>
+            </article>
+
+            <!-- 2024-7 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/6/13 Thu 12:00-13:00 (JST)</div>
+                    <h3 class="card-title">Creating neuromorphic artificial intelligence using reverse engineering of
+                        generative models</h3>
+                    <div class="speaker">Takuya Isomura (RIKEN Center for Brain Science)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topic:</strong> Creating neuromorphic artificial intelligence using
+                        reverse engineering of generative models.</p>
+                </div>
+            </article>
+
+            <!-- 2024-8 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/5/10 Fri 13:00-14:30 (JST)</div>
+                    <h3 class="card-title">Creating bridges between the digital and physical realms with 3D vision</h3>
+                    <div class="speaker">Thomas Diego (Kyushu University)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Topic:</strong> Creating bridges between the digital and physical realms
+                        with 3D vision technology.</p>
+                </div>
+            </article>
+
+            <!-- 2024-9 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/4/22 Mon 13:00-15:40 (JST)</div>
+                    <h3 class="card-title">Multiple Talks Session</h3>
+                    <div class="speaker">Ken Nakae, Hiromichi Tsukada, Hiroshi Ishii, Keiichi Ueda, Yoshitaro Tanaka
+                    </div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Schedule:</strong><br>
+                        13:00-13:30 Ken Nakae (ExCELLS, NINS): How to use the Brian/MINDS data portal<br>
+                        13:30-14:00 Hiromichi Tsukada (CMSAI, Chubu Univ.): Connectome-based modeling using marmoset MRI
+                        and gene expression data<br>
+                        14:10-14:40 Hiroshi Ishii (Hokkaido University): Pattern formation in mathematical models
+                        including neuronal interaction effects<br>
+                        14:40-15:10 Keiichi Ueda (University of Toyama): Decentralized distributed parameter tuning
+                        model for coupled oscillator systems<br>
+                        15:10-15:40 Yoshitaro Tanaka (Future University Hakodate): Proposal of a mathematical model of a
+                        reservoir computing using the diffusive chemical reaction</p>
+                    <div class="card-links">
+                        <a href="https://www.youtube.com/watch?v=83YRBKRUdxk" target="_blank" class="link-btn">🎥
+                            YouTube (Ken Nakae)</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- 2024-10 -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2024/4/1 Mon 15:00-17:00 (JST)</div>
+                    <h3 class="card-title">Learning of hidden principled structures behind observations / What is the
+                        Digital Brain</h3>
+                    <div class="speaker"><a href="https://takerum.github.io/" target="_blank" rel="noopener noreferrer"
+                            style="text-decoration: underline;">Takeru Miyato</a> (University of Tübingen), Kenji Doya
+                        (OIST)</div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Schedule:</strong><br>
+                        15:00-16:30 Takeru Miyato: Learning of hidden principled structures behind observations<br>
+                        16:30-17:00 Kenji Doya: What is the Digital Brain of Brain/MINDS 2.0</p>
+                    <div class="card-links">
+                        <a href="https://www.dropbox.com/scl/fi/x0eeqy623p8sx3lvqv6v3/Doya2024DigitalBrain.pdf?rlkey=t1eb3b90fw2zp6pann5yn5688&dl=0"
+                            target="_blank" class="link-btn">📄 Slides</a>
+                        <a href="https://www.youtube.com/watch?v=hDqiOSKc8Ks" target="_blank" class="link-btn">🎥
+                            YouTube</a>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h3>Organizers</h3>
+                <ul>
+                    <li><strong><a href="https://researchmap.jp/ken.nakae" target="_blank" rel="noopener noreferrer"
+                                style="color: inherit; text-decoration: underline;">Ken Nakae</a></strong> (Fukui
+                        University)</li>
+                    <li><strong><a href="https://researchmap.jp/206s16" target="_blank" rel="noopener noreferrer"
+                                style="color: inherit; text-decoration: underline;">Daisuke Tagami</a></strong> (Kyushu
+                        University)</li>
+                    <li><strong><a href="https://researchmap.jp/doya" target="_blank" rel="noopener noreferrer"
+                                style="color: inherit; text-decoration: underline;">Kenji Doya</a></strong> (OIST)</li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Sponsors</h3>
+                <ul>
+                    <li><a href="https://www.amed.go.jp/en/" target="_blank" rel="noopener noreferrer"
+                            style="color: inherit; text-decoration: underline;">Japan Agency for Medical Research and
+                            Development (AMED)</a></li>
+                    <li><a href="https://mfip.jp/" target="_blank" rel="noopener noreferrer"
+                            style="color: inherit; text-decoration: underline;">Mathematics for Industry Platform
+                            (MfIP)</a></li>
+                    <li><a href="https://braidyn-bc.jp/" target="_blank" rel="noopener noreferrer"
+                            style="color: inherit; text-decoration: underline;">Grant-in-Aid for Transformative Research
+                            Areas, MEXT</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Supported by</h3>
+                <ul>
+                    <li><a href="https://www.internationalbraininitiative.org/" target="_blank"
+                            rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">International
+                            Brain Initiative (IBI)</a></li>
+                    <li><a href="https://www.brainscience-union.jp/" target="_blank" rel="noopener noreferrer"
+                            style="color: inherit; text-decoration: underline;">Union of Brain Science Associations in
+                            Japan</a></li>
+                    <li><a href="https://jnns.org/" target="_blank" rel="noopener noreferrer"
+                            style="color: inherit; text-decoration: underline;">Japanese Neural Network Society</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="copyright">
+            &copy; Digital Brain Project
+        </div>
+    </footer>
+
+    <script>
+        const hamburgerBtn = document.getElementById('hamburger-btn');
+        const navLinks = document.getElementById('nav-links');
+
+        hamburgerBtn.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+
+        // Year tab navigation
+        document.querySelectorAll('.year-tab').forEach(tab => {
+            tab.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelectorAll('.year-tab').forEach(t => t.classList.remove('active'));
+                this.classList.add('active');
+                const targetId = this.getAttribute('href').substring(1);
+                document.querySelectorAll('.year-section').forEach(section => {
+                    section.style.display = section.id === targetId ? 'block' : 'none';
+                });
+            });
+        });
+
+        // Collapsible cards
+        document.querySelectorAll('.archive-card.collapsible .card-header').forEach(header => {
+            header.addEventListener('click', function (e) {
+                // Don't toggle if clicking on a link
+                if (e.target.tagName === 'A') return;
+
+                const card = this.closest('.archive-card');
+                card.classList.toggle('expanded');
+            });
+        });
+
+        // Initialize: show 2025, hide 2024
+        document.getElementById('year-2024').style.display = 'none';
+    </script>
+
+    <!-- Three.js Neural Network Animation -->
+    <script>
+        (function () {
+            const canvas = document.getElementById('hero-canvas');
+            const heroSection = document.querySelector('.archive-hero');
+
+            if (!canvas || !heroSection) return;
+
+            // Scene setup
+            const scene = new THREE.Scene();
+            const camera = new THREE.PerspectiveCamera(75, heroSection.offsetWidth / heroSection.offsetHeight, 0.1, 1000);
+            const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+
+            renderer.setSize(heroSection.offsetWidth, heroSection.offsetHeight);
+            renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+            // Particles
+            const particleCount = 80;
+            const particles = [];
+            const particleGeometry = new THREE.SphereGeometry(0.08, 8, 8);
+            const particleMaterial = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.7 });
+
+            for (let i = 0; i < particleCount; i++) {
+                const particle = new THREE.Mesh(particleGeometry, particleMaterial);
+                particle.position.x = (Math.random() - 0.5) * 15;
+                particle.position.y = (Math.random() - 0.5) * 8;
+                particle.position.z = (Math.random() - 0.5) * 8;
+                particle.velocity = {
+                    x: (Math.random() - 0.5) * 0.01,
+                    y: (Math.random() - 0.5) * 0.01,
+                    z: (Math.random() - 0.5) * 0.01
+                };
+                particles.push(particle);
+                scene.add(particle);
+            }
+
+            // Lines connecting particles
+            const lineMaterial = new THREE.LineBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.15 });
+            let linesMesh = null;
+
+            function updateLines() {
+                if (linesMesh) scene.remove(linesMesh);
+
+                const positions = [];
+                const maxDistance = 3;
+
+                for (let i = 0; i < particles.length; i++) {
+                    for (let j = i + 1; j < particles.length; j++) {
+                        const distance = particles[i].position.distanceTo(particles[j].position);
+                        if (distance < maxDistance) {
+                            positions.push(particles[i].position.x, particles[i].position.y, particles[i].position.z);
+                            positions.push(particles[j].position.x, particles[j].position.y, particles[j].position.z);
+                        }
+                    }
+                }
+
+                const geometry = new THREE.BufferGeometry();
+                geometry.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+                linesMesh = new THREE.LineSegments(geometry, lineMaterial);
+                scene.add(linesMesh);
+            }
+
+            camera.position.z = 8;
+
+            // Mouse interaction
+            let mouseX = 0, mouseY = 0;
+            heroSection.addEventListener('mousemove', (e) => {
+                const rect = heroSection.getBoundingClientRect();
+                mouseX = ((e.clientX - rect.left) / rect.width - 0.5) * 2;
+                mouseY = -((e.clientY - rect.top) / rect.height - 0.5) * 2;
+            });
+
+            // Animation loop
+            function animate() {
+                requestAnimationFrame(animate);
+
+                // Move particles
+                particles.forEach(particle => {
+                    particle.position.x += particle.velocity.x;
+                    particle.position.y += particle.velocity.y;
+                    particle.position.z += particle.velocity.z;
+
+                    // Boundary check
+                    if (Math.abs(particle.position.x) > 7.5) particle.velocity.x *= -1;
+                    if (Math.abs(particle.position.y) > 4) particle.velocity.y *= -1;
+                    if (Math.abs(particle.position.z) > 4) particle.velocity.z *= -1;
+                });
+
+                // Update lines every few frames for performance
+                if (Math.random() > 0.9) updateLines();
+
+                // Camera follows mouse slightly
+                camera.position.x += (mouseX * 0.5 - camera.position.x) * 0.02;
+                camera.position.y += (mouseY * 0.3 - camera.position.y) * 0.02;
+                camera.lookAt(0, 0, 0);
+
+                renderer.render(scene, camera);
+            }
+
+            animate();
+            updateLines();
+
+            // Handle resize
+            window.addEventListener('resize', () => {
+                camera.aspect = heroSection.offsetWidth / heroSection.offsetHeight;
+                camera.updateProjectionMatrix();
+                renderer.setSize(heroSection.offsetWidth, heroSection.offsetHeight);
+            });
+        })();
+    </script>
+
+</body>
+
+</html>
