@@ -138,13 +138,19 @@
 
 .archive-card .card-title {
     font-size: 1.2rem;
-    margin: 0 0 0.5rem 0;
+    margin: 0 0 0.75rem 0;
     line-height: 1.4;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px dashed #e2e8f0;
 }
 
 .archive-card .speaker {
     font-size: 0.95rem;
     margin-bottom: 0.5rem;
+    padding: 0.5rem 0;
+    background: linear-gradient(90deg, #f8fafc, transparent);
+    border-radius: 4px;
+    padding-left: 0.5rem;
 }
 
 .archive-card .abstract-preview {
