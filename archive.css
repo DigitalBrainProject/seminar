@@ -154,7 +154,7 @@
 .speaker-name {
     font-weight: 600;
     color: #1e293b;
-    display: block;
+    display: inline;
 }
 
 .speaker-affiliation {

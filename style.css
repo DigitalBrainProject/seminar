@@ -302,6 +302,15 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+.detail-row {
+    font-size: 0.95rem;
+    color: #64748b;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
 .abstract {
     margin-top: 1.5rem;
     padding-top: 1.5rem;
