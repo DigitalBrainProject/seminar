@@ -435,6 +435,14 @@ footer {
         font-size: 1rem;
     }
 
+    .affiliation {
+        display: block;
+        margin-left: 0;
+        color: #64748b;
+        font-size: 0.9rem;
+        margin-top: 0.2rem;
+    }
+
     .card {
         padding: 1.5rem;
     }
