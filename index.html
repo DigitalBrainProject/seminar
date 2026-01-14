@@ -64,71 +64,96 @@
             <h2>Upcoming Seminar</h2>
 
             <article class="card">
-                <h3 class="card-title">Development of a biophysically detailed neural circuit simulator and its
-                    application to whole mouse cortex simulations</h3>
-
-                <div class="speaker">
-                    <span class="speaker-label">Speaker:</span> <a href="https://researchmap.jp/tyam" target="_blank"
-                        rel="noopener noreferrer" style="text-decoration: underline;">Tadashi Yamazaki</a>
-                </div>
-                <div class="detail-row">
-                    <span class="speaker-label">Affiliation:</span> The University of Electro-Communications
-                </div>
-                <div class="detail-row">
-                    <span class="speaker-label">Place:</span> <a
-                        href="https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true"
-                        target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Online / Zoom</a>
-                </div>
-
-                <div class="schedule-box">
+                <div class="schedule-box" style="margin-top: 0; margin-bottom: 2rem; border-top: none;">
                     <div class="schedule-item">
                         <span class="schedule-label">DATE</span>
-                        <span class="schedule-value">2026/1/13 (Tue)</span>
+                        <span class="schedule-value">2026/1/27 (Tue)</span>
                     </div>
                     <div class="schedule-item">
                         <span class="schedule-label">TIME</span>
-                        <span class="schedule-value">13:00 - 14:30 JST</span>
+                        <span class="schedule-value">14:00 - 15:30 JST</span>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="schedule-label">PLACE</span>
+                        <span class="schedule-value"><a
+                                href="https://docs.google.com/forms/d/1duZBmrP8-1nVFSevK-VwitDGuL3oonJRR4SJCReSnrM/viewform?edit_requested=true"
+                                target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">Online /
+                                Zoom</a></span>
                     </div>
                 </div>
 
-                <div class="abstract">
-                    <p><strong>Abstract:</strong> Understanding the brain requires linking microscopic biophysical
-                        properties (e.g., ion channel dynamics and dendritic morphology) to emergent macroscopic
-                        phenomena (e.g., neural oscillations and network dynamics). While biologically detailed models
-                        are instrumental for this mechanistic insight, their inherent computational cost is substantial.
-                        While conventional simulators like NEURON and Arbor are highly effective for general use, in
-                        simulating models at the extreme scale, they could become inefficient. This is primarily in
-                        terms of their scalability and optimization to fully leverage modern High-Performance Computing
-                        (HPC) architectures.</p>
+                <!-- Talk 1 -->
+                <div style="margin-bottom: 3rem;">
+                    <h3 class="card-title">Tau-network mapping in neurodegenerative diseases and its causal validation
+                        through genetic neuromodulation in primate models</h3>
 
-                    <p>We introduce Neulite (<a href="https://numericalbrain.org/neulite/" target="_blank"
-                            rel="noopener noreferrer">https://numericalbrain.org/neulite/</a>), a light-weight
-                        biophysically detailed neural circuit simulator. It is architecturally defined by two core
-                        components: a frontend compliant with the Allen Institute’s Brain Modeling ToolKit (BMTK), and a
-                        portable numerical kernel. The frontend facilitates biological plausibility and reproducibility
-                        through the utilization of standardized data. The kernel, which can be specifically tuned for
-                        different computing architectures, allows us to overcome the limitations of conventional
-                        simulators through optimized, domain-specific algorithms.</p>
+                    <div class="speaker">
+                        <div class="detail-row">
+                            <span class="speaker-label">Time:</span> 14:00 - 14:45
+                        </div>
+                        <span class="speaker-label">Speaker:</span> Toshiyuki Hirabayashi
+                    </div>
+                    <div class="detail-row">
+                        <span class="speaker-label">Affiliation:</span> National Institutes for Quantum Science and
+                        Technology
+                    </div>
 
-                    <p>Neulite has been utilized to successfully execute the Allen Institute’s whole mouse cortex model
-                        on the Supercomputer Fugaku. We used the entire Fugaku system to simulate 9 million biologically
-                        detailed neurons and 26 billion synapses, demonstrating a significant scale of computation. This
-                        work is the result of an international collaboration with the team of Dr. Anton Arkhipov at the
-                        Allen Institute, where their comprehensive model met our high-performance simulation technology,
-                        with support from key domestic contributors (RIKEN R-CCS, RIST, and Yamaguchi University).
-                        Neulite is therefore a valuable tool for achieving data-driven, large-scale modeling and
-                        advancing the understanding of how cellular properties influence overall neural circuit
-                        function.</p>
+                    <div class="abstract">
+                        <p><strong>Abstract:</strong> Recent advances in highly sensitive PET probes have enabled the
+                            detection of pathological protein aggregates in neurodegenerative diseases, allowing their
+                            localization at the individual patient level (Tagai et al., Neuron. 2021). These
+                            developments, however, have revealed that affected brain regions are highly heterogeneous
+                            even for patients with similar symptoms, making it challenging to delineate the circuit
+                            dysfunctions underlying those symptoms.</p>
+                        <p>In this talk, I will present a novel network mapping approach, in which tau-PET data from
+                            individual patients with tauopathies are combined with normative connectome to identify the
+                            “core circuits” responsible for specific symptoms. I will present representative examples of
+                            this approach (Hori et al., bioRxiv. 2025; Kurose et al., in prep.), and discuss how these
+                            findings can be causally validated through genetic neuromodulation in primate models
+                            (Hirabayashi et al., Nature Commun. 2024; Neuron 2021). Finally, I will outline our ongoing
+                            efforts to translate these insights into neuromodulation strategies aimed at alleviating
+                            symptoms in patients with tauopathies.</p>
+                    </div>
+                </div>
 
-                    <p>The content of this talk has been published in a conference paper [1].</p>
+                <hr style="border: 0; border-top: 1px dashed #e2e8f0; margin: 3rem 0;">
 
-                    <p style="font-size: 0.9em; margin-top: 1em;">[1] Rin Kuriyama, Kaaya Akira, Laura Green, Beatriz
-                        Herrera, Kael Dai, Mari Iura, Gilles Gouaillardet, Asako Terasawa, Taira Kobayashi, Jun
-                        Igarashi, Anton Arkhipov, Tadashi Yamazaki (*: equally contributed). Microscopic-Level Mouse
-                        Whole Cortex Simulation Composed of 9 Million Biophysical Neurons and 26 Billion Synapses on the
-                        Supercomputer Fugaku. in The International Conference for High Performance Computing,
-                        Networking, Storage and Analysis (SC ’25), November 16–21, 2025, St Louis, MO, USA. ACM, New
-                        York, NY, USA, 11 pages. doi: 10.1145/3712285.3759819.</p>
+                <!-- Talk 2 -->
+                <div>
+                    <h3 class="card-title">Visualization of AMPA receptor in living human brain</h3>
+
+                    <div class="speaker">
+                        <div class="detail-row">
+                            <span class="speaker-label">Time:</span> 14:45 - 15:30
+                        </div>
+                        <span class="speaker-label">Speaker:</span> Takuya Takahashi
+                    </div>
+                    <div class="detail-row">
+                        <span class="speaker-label">Affiliation:</span> Yokohama City University
+                    </div>
+
+                    <div class="abstract">
+                        <p><strong>Abstract:</strong> Glutamatergic synapses play central roles in almost all of
+                            neuronal functions such as learning, motor and sensory functions. Among glutamate receptors,
+                            AMPARs are the “actual mediator” at glutamatergic synapses. Since the cloning of AMPARs
+                            approximately two decades ago, enormous number of papers have reported the importance of
+                            AMPARs on neuronal functions including diseases. These previous studies proved that AMPAR is
+                            the most principal component of neurotransmission. Despite the accumulation of knowledge of
+                            physiological roles of AMPARs, its clinical translation is limited. Main reason for this is
+                            that we are not currently able to visualize AMPARs in living human brain. Although rodent
+                            neuronal disease models are elegant and well characterized, it remains unclear if these
+                            animal models fully mimic human disease. Characterization of these diseases with AMPARs in
+                            living human brain should provide us biological basis of neuropsychiatric disorders.</p>
+                        <p>We developed novel PET probe for AMPARs, named [<sup>11</sup>C]K-2. We detected
+                            [<sup>11</sup>C]K-2 signals reflecting specific binding to AMPARs in rat and human (Nature
+                            Medicine 2020). Further, we demonstrated that [<sup>11</sup>C]K-2 image represents cell
+                            surface AMPAR which is the physiologically most important fraction (Neuroscience Res 2021,
+                            and Ichijo et al. submitted). Using [<sup>11</sup>C]K-2, we characterized major psychiatric
+                            disorders (molecular psychiatry 2024) and epilepsy (Cell Reports Medicine 2023). We are
+                            planning to conduct clinical trial to launch [<sup>11</sup>C]K-2 as a diagnostic of
+                            psychiatric disorders. In this lecture, I will go over recent progress of our PET tracers.
+                        </p>
+                    </div>
                 </div>
             </article>
 

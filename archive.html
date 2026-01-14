@@ -50,9 +50,68 @@
     <div class="container">
         <!-- Year Navigation -->
         <div class="year-nav">
-            <a href="#year-2025" class="year-tab active">2025</a>
+            <a href="#year-2026" class="year-tab active">2026</a>
+            <a href="#year-2025" class="year-tab">2025</a>
             <a href="#year-2024" class="year-tab">2024</a>
         </div>
+
+        <!-- 2026 Seminars -->
+        <section id="year-2026" class="year-section">
+            <h2>2026</h2>
+
+            <!-- 2026-1 Yamazaki -->
+            <article class="archive-card collapsible">
+                <div class="card-header">
+                    <div class="badge">2026/1/13 Tue 13:00-14:30 (JST)</div>
+                    <h3 class="card-title">Development of a biophysically detailed neural circuit simulator and its application to whole mouse cortex simulations</h3>
+                    <div class="speaker">
+                        <div class="speaker-name"><a href="https://researchmap.jp/tyam" target="_blank"
+                            rel="noopener noreferrer" style="text-decoration: underline;">Tadashi Yamazaki</a></div>
+                        <div class="speaker-affiliation">The University of Electro-Communications</div>
+                    </div>
+                    <span class="expand-icon">▼</span>
+                </div>
+                <div class="card-content">
+                    <p class="abstract"><strong>Abstract:</strong> Understanding the brain requires linking microscopic biophysical
+                        properties (e.g., ion channel dynamics and dendritic morphology) to emergent macroscopic
+                        phenomena (e.g., neural oscillations and network dynamics). While biologically detailed models
+                        are instrumental for this mechanistic insight, their inherent computational cost is substantial.
+                        While conventional simulators like NEURON and Arbor are highly effective for general use, in
+                        simulating models at the extreme scale, they could become inefficient. This is primarily in
+                        terms of their scalability and optimization to fully leverage modern High-Performance Computing
+                        (HPC) architectures.</p>
+
+                    <p>We introduce Neulite (<a href="https://numericalbrain.org/neulite/" target="_blank"
+                            rel="noopener noreferrer">https://numericalbrain.org/neulite/</a>), a light-weight
+                        biophysically detailed neural circuit simulator. It is architecturally defined by two core
+                        components: a frontend compliant with the Allen Institute’s Brain Modeling ToolKit (BMTK), and a
+                        portable numerical kernel. The frontend facilitates biological plausibility and reproducibility
+                        through the utilization of standardized data. The kernel, which can be specifically tuned for
+                        different computing architectures, allows us to overcome the limitations of conventional
+                        simulators through optimized, domain-specific algorithms.</p>
+
+                    <p>Neulite has been utilized to successfully execute the Allen Institute’s whole mouse cortex model
+                        on the Supercomputer Fugaku. We used the entire Fugaku system to simulate 9 million biologically
+                        detailed neurons and 26 billion synapses, demonstrating a significant scale of computation. This
+                        work is the result of an international collaboration with the team of Dr. Anton Arkhipov at the
+                        Allen Institute, where their comprehensive model met our high-performance simulation technology,
+                        with support from key domestic contributors (RIKEN R-CCS, RIST, and Yamaguchi University).
+                        Neulite is therefore a valuable tool for achieving data-driven, large-scale modeling and
+                        advancing the understanding of how cellular properties influence overall neural circuit
+                        function.</p>
+
+                    <p>The content of this talk has been published in a conference paper [1].</p>
+
+                    <p style="font-size: 0.9em; margin-top: 1em;">[1] Rin Kuriyama, Kaaya Akira, Laura Green, Beatriz
+                        Herrera, Kael Dai, Mari Iura, Gilles Gouaillardet, Asako Terasawa, Taira Kobayashi, Jun
+                        Igarashi, Anton Arkhipov, Tadashi Yamazaki (*: equally contributed). Microscopic-Level Mouse
+                        Whole Cortex Simulation Composed of 9 Million Biophysical Neurons and 26 Billion Synapses on the
+                        Supercomputer Fugaku. in The International Conference for High Performance Computing,
+                        Networking, Storage and Analysis (SC ’25), November 16–21, 2025, St Louis, MO, USA. ACM, New
+                        York, NY, USA, 11 pages. doi: 10.1145/3712285.3759819.</p>
+                </div>
+            </article>
+        </section>
 
         <!-- 2025 Seminars -->
         <section id="year-2025" class="year-section">
