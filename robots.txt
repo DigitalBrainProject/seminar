@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digitalbrainproject.github.io/seminar/sitemap.xml
